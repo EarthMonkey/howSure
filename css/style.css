@@ -475,8 +475,7 @@ a.custom-button span {
 .logo {
 	position: absolute;
 	display: block;
-	top: 50%;
-	margin-top: -15px;
+	top: 5px;
 	left: 30px;
 }
 .logo img {
@@ -495,6 +494,13 @@ a.custom-button span {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	-khtml-opacity: .75;
 	-moz-opacity: .75;
+	opacity: .75;
+}
+.counter {
+	display: block;
+	position: relative;
+	left: 70px;
+	top: -50px;
 	opacity: .75;
 }
 .navbar {
