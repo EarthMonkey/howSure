@@ -497,11 +497,11 @@ a.custom-button span {
 	opacity: .75;
 }
 .counter {
+	width: 200px;
 	display: block;
 	position: relative;
 	left: 70px;
 	top: -50px;
-	opacity: .75;
 }
 .navbar {
 	position: fixed;
